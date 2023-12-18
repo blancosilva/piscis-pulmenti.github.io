@@ -28,9 +28,11 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://piscis-pulmenti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
+highlighter: rouge
+markdown: kramdown
 # theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
