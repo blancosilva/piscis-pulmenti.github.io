@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Simple banking 
   
   
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://piscispulenti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://piscis-pulmenti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
